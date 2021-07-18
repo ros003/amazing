@@ -1,5 +1,5 @@
 const random = (options) => {
-	const element = document.querySelectorAll('r-name');
+	const element = document.querySelectorAll('.r-name');
 
 	element.forEach(item => {
 		item.innerHTML = 'Ros';
